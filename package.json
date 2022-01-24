@@ -1,0 +1,15 @@
+{
+    "name": "bdsp-tools",
+    "displayName": "BDSP Tools",
+    "description": "A Collection of Tools to support Pokemon BDSP Modding",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "heroj04.bdsp-evscript-language-support"
+    ]
+}
