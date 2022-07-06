@@ -8,3 +8,5 @@ An Extension pack including tools used to assist in Pokemon BDSP Modding.
   - EvScript Syntax Highlighting
   - Parsing and Assembling EvScripts
   - Code Snippets
+- [BDSP JSON Schema](https://marketplace.visualstudio.com/items?itemName=Heroj04.bdsp-json-schema)
+  - JSON Validation
